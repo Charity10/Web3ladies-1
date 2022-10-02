@@ -1,0 +1,1 @@
+I tried pushing from remix but wasm't able to do so then i tried deploy with hardhat (polygon testnet) but then didnt know what to put in the main function.
